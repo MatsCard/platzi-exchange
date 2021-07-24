@@ -1,5 +1,8 @@
 # platzi-exchange
 
+Online
+https://matscard-exchange.netlify.app/
+
 ## Project setup
 ```
 npm install
